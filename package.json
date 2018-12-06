@@ -1,0 +1,22 @@
+{
+  "name": "CLMI_Loan_Management_App",
+  "version": "1.0.0",
+  "description": "CLMI Loan Management App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GaviSoft/Davao-Loan-Management"
+  },
+  "keywords": [
+    "test",
+    "command:"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.10"
+  }
+}
